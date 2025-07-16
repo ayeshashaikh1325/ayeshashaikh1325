@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Ayesha Shaikh! <br/>
 🎓 First-Year M.Sc. Student in Statistics & Data Science <br/>
 💻 Python Developer | 📊 Data Science & Machine Learning Enthusiast <br/>
-⚡ Automating workflows, building tools, and solving problems with code <br/>
+⚡ Automating workflows, building tools, and solving problems with code or probably AI <br/>
 
 I'm passionate about using code and data to build smart, scalable solutions. <br/>
 I’ve applied machine learning, automation, and web scraping across domains like e-commerce, finance, and productivity tools. <br/>
