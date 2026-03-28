@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Ayesha Shaikh! <br/>
-🎓 First-Year M.Sc. Student in Statistics & Data Science <br/>
+🎓 First-Year M.Sc. Student in Statistics Data Science <br/>
 💻 Python Developer | 📊 Data Science & Machine Learning Enthusiast <br/>
 ⚡ Automating workflows, building tools, and solving problems with code or probably AI <br/>
 
