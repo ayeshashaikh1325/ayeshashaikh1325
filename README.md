@@ -4,7 +4,7 @@
 ⚡ Automating workflows, building tools, and solving problems with code or probably AI <br/>
 
 I'm passionate about using AI, code and data to build smart, scalable solutions. <br/>
-I’ve applied machine learning, automation, and web scraping across domains like Remote sensing, GIS, e-commerce, finance, and productivity tools. <br/>
+I’ve applied machine learning, automation, and web scraping across domains like Public Health Analytics, Remote sensing, GIS, e-commerce, finance, and productivity tools. <br/>
 Currently diving deeper into advanced statistics and AI to take my skills to the next level. <br/>
 
 
